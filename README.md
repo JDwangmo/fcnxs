@@ -81,4 +81,3 @@ train_dataiter = FileIter(
       )
 ```
 * We are looking forward you to making this example more powerful, thanks.
-# fcnxs
