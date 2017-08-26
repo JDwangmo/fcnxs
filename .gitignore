@@ -1,0 +1,8 @@
+*.pyc
+.ipynb_checkpoints
+result
+model*
+video_test
+*.params
+segmentation_data
+VOC2012
